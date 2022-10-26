@@ -6,3 +6,4 @@ if z.endswith(c):
     print("Automorphic Number")
 else:
     print("Not an Automorphic Number")
+
