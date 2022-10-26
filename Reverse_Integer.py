@@ -21,4 +21,3 @@ else:
             z=z+str(a)
         x=x//10
     print(z)
-
